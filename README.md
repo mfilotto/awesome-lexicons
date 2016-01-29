@@ -29,10 +29,12 @@
 * [Future proof](http://en.wikipedia.org/wiki/Future_proof) : Future-proofing is the process of anticipating the future and developing methods of minimizing the effects of shocks and stresses of future events.
 * [Graceful degradation / progressive enhancement](http://www.w3.org/wiki/Graceful_degredation_versus_progressive_enhancement)
 * [Higher-order function](https://en.wikipedia.org/wiki/Higher-order_function)
+* [Horizontal scaling](https://en.wikipedia.org/wiki/Scalability#Horizontal_and_vertical_scaling) : affords the ability to scale wider to deal with traffic. It is the ability to connect multiple hardware or software entities, such as servers, so that they work as a single logical unit.
 * [Hoisting](http://www.w3schools.com/js/js_hoisting.asp) : Hoisting is JavaScript's default behavior of moving declarations to the top.
 * [Holy Grail Layout](https://en.wikipedia.org/wiki/Holy_Grail_%28web_design%29) : a multi-column web page layout. It is commonly desired and implemented, although the ways in which it can be implemented with current technologies all have drawbacks. (flexbox solution)
 * [HTML Sanitization](https://en.wikipedia.org/wiki/HTML_sanitization) : the process of examining an HTML document and producing a new HTML document that preserves only whatever tags are designated "safe". HTML sanitization can be used to protect against cross-site scripting (XSS) attacks by sanitizing any HTML code submitted by a user.
 * [Iffy (IIFE)](http://en.wikipedia.org/wiki/Immediately-invoked_function_expression) : immediately invoked function expression
+* [Immutable Infrastructure](http://radar.oreilly.com/2015/06/an-introduction-to-immutable-infrastructure.html) : [A pattern or strategy for managing services in which infrastructure is divided into “data” and “everything else”. “Everything else” components are replaced at every deployment, with changes made only by modifying a versioned definition, rather than being updated in-place](https://highops.com/insights/immutable-infrastructure-6-questions-6-experts/)
 * [Imperative](https://en.wikipedia.org/wiki/Imperative_programming) / [Declarative](https://en.wikipedia.org/wiki/Declarative_programming) / [Functional programming](https://en.wikipedia.org/wiki/Functional_programming) : la comparaison en javascript
 * [Interpolation (variable)](http://en.wikipedia.org/wiki/String_interpolation) : variable interpolation is the process of evaluating a string literal containing one or more placeholders replaced with their corresponding values.
 * In-house deployment
@@ -41,6 +43,7 @@
 * [Media queries](http://www.alsacreations.com/article/lire/930-css3-media-queries.html) : requêtes pour adapter le CSS au support (des exemples)
 * [MFA](http://en.wikipedia.org/wiki/Multi-factor_authentication) : Multi-factor authentication
 * [Monkey patch](http://en.wikipedia.org/wiki/Monkey_patch) : A monkey patch is a way for a program to extend or modify supporting system software locally
+* [Phoenix Server](http://martinfowler.com/bliki/PhoenixServer.html) : "A server should be like a phoenix, regularly rising from the ashes"
 * [Polyfill](https://en.wikipedia.org/wiki/Polyfill) : ensemble de fonctions simulant sur un navigateur ancien des fonctionnalités qui ne sont pas nativement disponible (ou anticipation de fonctions à venir dans les futures specs)
 * [Pure function / side effects](https://en.wikipedia.org/wiki/Pure_function)
 * [Query string](https://en.wikipedia.org/wiki/Query_string) : A typical URL containing a query string is as follows: http: //example.com/with/query/string?field1=value1&field2=value2&field3=value3 where the query string is field1=value1&field2=value2&field3=value3
